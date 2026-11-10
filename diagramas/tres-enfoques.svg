@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 366" width="680" height="366" role="img" lang="es" aria-labelledby="diagram-title diagram-desc">
+<title id="diagram-title">Tres enfoques de prevención</title>
+<desc id="diagram-desc">Un problema definido abre tres rutas de prevención que pueden elegirse o combinarse.</desc>
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<rect x="190" y="12" width="300" height="70" rx="13" fill="#f0eaff" stroke="#7c3aed" stroke-width="2"/>
+<text x="212" y="43" fill="#0f172a" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="19" font-weight="700">Problema definido</text>
+<text x="212" y="70" fill="#475569" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="15">hecho · lugar · momento</text>
+<rect x="20" y="150" width="200" height="86" rx="13" fill="#fff0f3" stroke="#e11d48" stroke-width="2"/>
+<text x="42" y="181" fill="#0f172a" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="19" font-weight="700">Situacional</text>
+<text x="42" y="208" fill="#475569" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="15">oportunidades</text>
+<rect x="240" y="150" width="200" height="86" rx="13" fill="#e8f7ef" stroke="#059669" stroke-width="2"/>
+<text x="262" y="181" fill="#0f172a" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="19" font-weight="700">Social</text>
+<text x="262" y="208" fill="#475569" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="15">vulneraciones</text>
+<rect x="460" y="150" width="200" height="86" rx="13" fill="#e0f7fb" stroke="#0891b2" stroke-width="2"/>
+<text x="482" y="181" fill="#0f172a" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="19" font-weight="700">Comunitaria</text>
+<text x="482" y="208" fill="#475569" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="15">actores locales</text>
+<rect x="190" y="284" width="300" height="70" rx="13" fill="#f2f4f7" stroke="#64748b" stroke-width="2"/>
+<text x="212" y="315" fill="#0f172a" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="19" font-weight="700">Respuesta pertinente</text>
+<text x="212" y="342" fill="#475569" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="15">responsable · revisión</text>
+<line x1="340" y1="82" x2="340" y2="116" stroke="#64748b" stroke-width="2.5"/>
+<line x1="120" y1="116" x2="560" y2="116" stroke="#64748b" stroke-width="2.5"/>
+<line x1="120" y1="116" x2="120" y2="141" stroke="#64748b" stroke-width="2.5"/>
+<polygon points="113,138 120,148 127,138" fill="#64748b"/>
+<line x1="120" y1="236" x2="120" y2="258" stroke="#64748b" stroke-width="2.5"/>
+<line x1="340" y1="116" x2="340" y2="141" stroke="#64748b" stroke-width="2.5"/>
+<polygon points="333,138 340,148 347,138" fill="#64748b"/>
+<line x1="340" y1="236" x2="340" y2="258" stroke="#64748b" stroke-width="2.5"/>
+<line x1="560" y1="116" x2="560" y2="141" stroke="#64748b" stroke-width="2.5"/>
+<polygon points="553,138 560,148 567,138" fill="#64748b"/>
+<line x1="560" y1="236" x2="560" y2="258" stroke="#64748b" stroke-width="2.5"/>
+<line x1="120" y1="258" x2="560" y2="258" stroke="#64748b" stroke-width="2.5"/>
+<line x1="340" y1="258" x2="340" y2="277" stroke="#64748b" stroke-width="2.5"/>
+<polygon points="333,274 340,284 347,274" fill="#64748b"/>
+</svg>
