@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 568" width="680" height="568" role="img" lang="es" aria-labelledby="diagram-title diagram-desc">
+<title id="diagram-title">Del mapa a la inspección territorial</title>
+<desc id="diagram-desc">Flujo de cinco pasos para orientar el análisis.</desc>
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<rect x="42" y="16" width="596" height="78" rx="13" fill="#f0eaff" stroke="#7c3aed" stroke-width="2"/>
+<circle cx="77" cy="55" r="18" fill="#7c3aed"/>
+<text x="77" y="61" text-anchor="middle" fill="#ffffff" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="16" font-weight="700">1</text>
+<text x="112" y="47" fill="#0f172a" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="20" font-weight="700">Comparar la red</text>
+<text x="112" y="74" fill="#475569" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="15">hechos y exposición</text>
+<line x1="340" y1="94" x2="340" y2="119" stroke="#64748b" stroke-width="2.5"/>
+<polygon points="333,116 340,126 347,116" fill="#64748b"/>
+<rect x="42" y="126" width="596" height="78" rx="13" fill="#e8f7ef" stroke="#059669" stroke-width="2"/>
+<circle cx="77" cy="165" r="18" fill="#059669"/>
+<text x="77" y="171" text-anchor="middle" fill="#ffffff" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="16" font-weight="700">2</text>
+<text x="112" y="157" fill="#0f172a" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="20" font-weight="700">Examinar estaciones</text>
+<text x="112" y="184" fill="#475569" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="15">franjas y tendencias</text>
+<line x1="340" y1="204" x2="340" y2="229" stroke="#64748b" stroke-width="2.5"/>
+<polygon points="333,226 340,236 347,226" fill="#64748b"/>
+<rect x="42" y="236" width="596" height="78" rx="13" fill="#fff0f3" stroke="#e11d48" stroke-width="2"/>
+<circle cx="77" cy="275" r="18" fill="#e11d48"/>
+<text x="77" y="281" text-anchor="middle" fill="#ffffff" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="16" font-weight="700">3</text>
+<text x="112" y="267" fill="#0f172a" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="20" font-weight="700">Localizar el foco</text>
+<text x="112" y="294" fill="#475569" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="15">andén, acceso o entorno</text>
+<line x1="340" y1="314" x2="340" y2="339" stroke="#64748b" stroke-width="2.5"/>
+<polygon points="333,336 340,346 347,336" fill="#64748b"/>
+<rect x="42" y="346" width="596" height="78" rx="13" fill="#f2f4f7" stroke="#64748b" stroke-width="2"/>
+<circle cx="77" cy="385" r="18" fill="#64748b"/>
+<text x="77" y="391" text-anchor="middle" fill="#ffffff" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="16" font-weight="700">4</text>
+<text x="112" y="377" fill="#0f172a" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="20" font-weight="700">Inspeccionar el lugar</text>
+<text x="112" y="404" fill="#475569" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="15">flujo, visibilidad, uso</text>
+<line x1="340" y1="424" x2="340" y2="449" stroke="#64748b" stroke-width="2.5"/>
+<polygon points="333,446 340,456 347,446" fill="#64748b"/>
+<rect x="42" y="456" width="596" height="78" rx="13" fill="#e0f7fb" stroke="#0891b2" stroke-width="2"/>
+<circle cx="77" cy="495" r="18" fill="#0891b2"/>
+<text x="77" y="501" text-anchor="middle" fill="#ffffff" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="16" font-weight="700">5</text>
+<text x="112" y="487" fill="#0f172a" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="20" font-weight="700">Fijar prioridad</text>
+<text x="112" y="514" fill="#475569" font-family="'JetBrains Mono',Menlo,Consolas,monospace" font-size="15">provisional y revisable</text>
+</svg>

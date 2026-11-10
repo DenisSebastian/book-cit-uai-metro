@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "De registros dispersos a datos comparables",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    {
+      "id": "datos",
+      "label": "Preparación del análisis"
+    }
+  ],
+  "mainPath": [
+    "fuentes",
+    "definir",
+    "depurar",
+    "vincular",
+    "evaluar"
+  ],
+  "nodes": [
+    {
+      "id": "fuentes",
+      "lane": "datos",
+      "col": 0,
+      "type": "database",
+      "label": "Inventariar fuentes",
+      "sublabel": "operación, policía, territorio",
+      "width": 160
+    },
+    {
+      "id": "definir",
+      "lane": "datos",
+      "col": 1,
+      "type": "backend",
+      "label": "Definir unidades",
+      "sublabel": "hecho, lugar, tiempo",
+      "width": 160
+    },
+    {
+      "id": "depurar",
+      "lane": "datos",
+      "col": 2,
+      "type": "security",
+      "label": "Depurar registros",
+      "sublabel": "categorías y duplicados",
+      "width": 160
+    },
+    {
+      "id": "vincular",
+      "lane": "datos",
+      "col": 3,
+      "type": "messagebus",
+      "label": "Vincular datos",
+      "sublabel": "solo con base legal y calidad",
+      "width": 160
+    },
+    {
+      "id": "evaluar",
+      "lane": "datos",
+      "col": 4,
+      "type": "frontend",
+      "label": "Evaluar cobertura",
+      "sublabel": "sesgos y exposición",
+      "width": 160
+    }
+  ],
+  "edges": [
+    {
+      "from": "fuentes",
+      "to": "definir"
+    },
+    {
+      "from": "definir",
+      "to": "depurar"
+    },
+    {
+      "from": "depurar",
+      "to": "vincular"
+    },
+    {
+      "from": "vincular",
+      "to": "evaluar"
+    }
+  ],
+  "cards": [
+    {
+      "dot": "cyan",
+      "title": "Escala de Metro",
+      "items": [
+        "Un aviso, una denuncia y un relato no son la misma unidad.",
+        "Las validaciones no miden todos los espacios de exposición."
+      ]
+    },
+    {
+      "dot": "amber",
+      "title": "Condición institucional",
+      "items": [
+        "La Ley 21.659 no crea acceso automático a microdatos del CEAD.",
+        "La información sensible exige cauces y resguardos formales."
+      ]
+    }
+  ]
+}

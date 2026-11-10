@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "Del mapa a la inspección territorial",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    {
+      "id": "territorio",
+      "label": "Lectura espacial"
+    }
+  ],
+  "mainPath": [
+    "red",
+    "estacion",
+    "microespacio",
+    "terreno",
+    "prioridad"
+  ],
+  "nodes": [
+    {
+      "id": "red",
+      "lane": "territorio",
+      "col": 0,
+      "type": "database",
+      "label": "Comparar la red",
+      "sublabel": "hechos y exposición",
+      "width": 160
+    },
+    {
+      "id": "estacion",
+      "lane": "territorio",
+      "col": 1,
+      "type": "backend",
+      "label": "Examinar estaciones",
+      "sublabel": "franjas y tendencias",
+      "width": 160
+    },
+    {
+      "id": "microespacio",
+      "lane": "territorio",
+      "col": 2,
+      "type": "security",
+      "label": "Localizar el foco",
+      "sublabel": "andén, acceso o entorno",
+      "width": 160
+    },
+    {
+      "id": "terreno",
+      "lane": "territorio",
+      "col": 3,
+      "type": "external",
+      "label": "Inspeccionar el lugar",
+      "sublabel": "flujo, visibilidad, uso",
+      "width": 160
+    },
+    {
+      "id": "prioridad",
+      "lane": "territorio",
+      "col": 4,
+      "type": "frontend",
+      "label": "Fijar prioridad",
+      "sublabel": "provisional y revisable",
+      "width": 160
+    }
+  ],
+  "edges": [
+    {
+      "from": "red",
+      "to": "estacion"
+    },
+    {
+      "from": "estacion",
+      "to": "microespacio"
+    },
+    {
+      "from": "microespacio",
+      "to": "terreno"
+    },
+    {
+      "from": "terreno",
+      "to": "prioridad"
+    }
+  ],
+  "cards": [
+    {
+      "dot": "cyan",
+      "title": "Hotspot con contexto",
+      "items": [
+        "La concentración depende de la escala y la precisión del registro.",
+        "El mapa orienta la visita; no identifica la causa."
+      ]
+    },
+    {
+      "dot": "emerald",
+      "title": "Producto para Metro",
+      "items": [
+        "Una prioridad debe nombrar hecho, ámbito y franja.",
+        "Separar estación, acceso y calle evita atribuciones falsas."
+      ]
+    }
+  ]
+}

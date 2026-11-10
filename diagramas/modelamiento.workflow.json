@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "De la pregunta al resultado espacial",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    {
+      "id": "modelo",
+      "label": "Lectura del modelo"
+    }
+  ],
+  "mainPath": [
+    "pregunta",
+    "factores",
+    "modelo",
+    "validar",
+    "ensayo"
+  ],
+  "nodes": [
+    {
+      "id": "pregunta",
+      "lane": "modelo",
+      "col": 0,
+      "type": "database",
+      "label": "Definir hecho",
+      "sublabel": "ámbito, unidad y periodo",
+      "width": 160
+    },
+    {
+      "id": "factores",
+      "lane": "modelo",
+      "col": 1,
+      "type": "backend",
+      "label": "Preparar variables",
+      "sublabel": "fuentes y exposición",
+      "width": 160
+    },
+    {
+      "id": "modelo",
+      "lane": "modelo",
+      "col": 2,
+      "type": "security",
+      "label": "Estimar relaciones",
+      "sublabel": "modelo de referencia",
+      "width": 160
+    },
+    {
+      "id": "validar",
+      "lane": "modelo",
+      "col": 3,
+      "type": "messagebus",
+      "label": "Revisar dependencia",
+      "sublabel": "vecindad y residuos",
+      "width": 160
+    },
+    {
+      "id": "ensayo",
+      "lane": "modelo",
+      "col": 4,
+      "type": "frontend",
+      "label": "Interpretar límites",
+      "sublabel": "incertidumbre y escala",
+      "width": 160
+    }
+  ],
+  "edges": [
+    {
+      "from": "pregunta",
+      "to": "factores"
+    },
+    {
+      "from": "factores",
+      "to": "modelo"
+    },
+    {
+      "from": "modelo",
+      "to": "validar"
+    },
+    {
+      "from": "validar",
+      "to": "ensayo"
+    }
+  ],
+  "cards": [
+    {
+      "dot": "violet",
+      "title": "Lectura",
+      "items": [
+        "Un coeficiente describe una asociación estimada.",
+        "La escala determina qué puede afirmarse."
+      ]
+    },
+    {
+      "dot": "emerald",
+      "title": "Uso en Metro",
+      "items": [
+        "Separar el interior de la estación y su entorno.",
+        "Contrastar hallazgos con registros y observación."
+      ]
+    }
+  ]
+}

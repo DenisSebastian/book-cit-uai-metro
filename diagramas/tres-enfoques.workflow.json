@@ -1,0 +1,29 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "Tres enfoques de prevención",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    { "id": "social", "label": "Condiciones sociales" },
+    { "id": "situacional", "label": "Entorno inmediato" },
+    { "id": "comunitaria", "label": "Acción territorial" }
+  ],
+  "mainPath": ["problema", "situacion", "respuesta"],
+  "nodes": [
+    { "id": "problema", "lane": "situacional", "col": 0, "type": "database", "label": "Problema definido", "sublabel": "hecho · lugar · momento", "width": 164 },
+    { "id": "socialprev", "lane": "social", "col": 1, "type": "backend", "label": "Social", "sublabel": "atender vulneraciones", "width": 164 },
+    { "id": "situacion", "lane": "situacional", "col": 1, "type": "security", "label": "Situacional", "sublabel": "modificar oportunidades", "width": 164 },
+    { "id": "comunidad", "lane": "comunitaria", "col": 1, "type": "frontend", "label": "Comunitaria", "sublabel": "coordinar actores", "width": 164 },
+    { "id": "respuesta", "lane": "situacional", "col": 2, "type": "external", "label": "Respuesta pertinente", "sublabel": "responsable · revisión", "width": 164 }
+  ],
+  "edges": [
+    { "from": "problema", "to": "situacion" },
+    { "from": "situacion", "to": "respuesta" },
+    { "from": "problema", "to": "socialprev", "role": "branch" },
+    { "from": "socialprev", "to": "respuesta", "role": "branch" },
+    { "from": "problema", "to": "comunidad", "role": "branch" },
+    { "from": "comunidad", "to": "respuesta", "role": "branch" }
+  ]
+}

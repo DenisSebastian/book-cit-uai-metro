@@ -1,0 +1,60 @@
+# Prefacio {.unnumbered}
+
+![Identidad institucional de la Universidad Adolfo Ibáñez.](images/uai-corporate.png){#fig-uai-corporate width="50%"}
+
+## La seguridad se construye en el territorio
+
+La seguridad se vive en lugares concretos: una estación y sus accesos, una plaza, una calle o un barrio. Lo que ocurre allí está relacionado con el diseño del espacio, las oportunidades delictivas, la cohesión social y la capacidad de respuesta de instituciones y comunidades. Por eso, comprender un problema de seguridad exige mirar tanto los hechos como las condiciones del territorio donde suceden.
+
+El curso **Seguridad comunitaria y territorio** reúne perspectivas sociales, urbanas, institucionales y analíticas para pasar de esa comprensión a la acción. Esta edición está dirigida a **funcionarias y funcionarios de Metro de Santiago que realizan tareas de análisis de seguridad**. Su propósito es fortalecer la capacidad de diseñar, implementar y evaluar estrategias preventivas pertinentes a los espacios y problemas de la red, apoyadas en evidencia.
+
+## Cómo se aprende
+
+El programa combina marcos conceptuales con análisis de casos y herramientas aplicadas. El intercambio de experiencias entre participantes permite contrastar las ideas del curso con problemas reales de gestión. A lo largo de ocho sesiones, el recorrido avanza desde la lectura del territorio hasta la formulación y el seguimiento de un plan de seguridad.
+
+## Las ocho sesiones
+
+### 1. Territorio y delito
+
+Introduce la relación entre espacio urbano y delito: cómo se distribuyen los hechos, cómo se configura la percepción de inseguridad y qué papel cumplen la cohesión social y la eficacia colectiva. La vulnerabilidad socioterritorial y la Matriz de Bienestar Humano Territorial ayudan a leer las desigualdades detrás de esos patrones.
+
+### 2. Marco normativo
+
+Ordena el marco institucional de la seguridad local: competencias municipales, funciones de gobiernos regionales y delegaciones presidenciales, y mecanismos de financiamiento. También examina los límites legales y éticos de la acción comunitaria.
+
+### 3. Crimen organizado
+
+Analiza cómo las economías ilícitas pueden disputar el control de espacios barriales y alterar la vida cotidiana. Se estudian las señales territoriales de estas dinámicas y las respuestas institucionales para recuperar barrios críticos.
+
+### 4. Diseño seguro
+
+Presenta la prevención del delito mediante el diseño ambiental (CPTED) y sus aplicaciones en el entorno construido. Vigilancia natural, accesos, iluminación, mezcla de usos, mantenimiento y urbanismo táctico se examinan como herramientas para mejorar el uso y la percepción del espacio público.
+
+### 5. Alianzas y redes
+
+Se centra en la colaboración entre instituciones y actores locales. El mapeo de actores, la construcción de confianza, la participación comunitaria y la gestión de controversias muestran cómo coproducir respuestas legítimas y sostenibles.
+
+### 6. Anticipación y prevención {.highlight}
+
+Conecta inteligencia territorial, ciencia de datos y análisis espacial con decisiones preventivas. La sesión aborda la integración de fuentes, los patrones o *puntos críticos* de delito, el modelamiento del riesgo territorial y las diferencias entre prevención situacional, social y comunitaria.
+
+### 7. Indicadores y monitoreo
+
+Traduce las intervenciones en preguntas medibles: qué se hizo, qué cambió y con qué evidencia se puede evaluar el impacto de una política o plan. Incorpora indicadores de bienestar territorial, tableros de control y estrategias de reporte y rendición de cuentas.
+
+### 8. Planes de seguridad
+
+Reúne los aprendizajes anteriores en el diseño de planes comunales o barriales. El diagnóstico participativo, la priorización, la asignación de recursos y el seguimiento de compromisos permiten llevar una propuesta desde la idea hasta su gestión.
+
+## El lugar de este libro
+
+Este libro digital desarrolla **solo la sesión 6, Anticipación y prevención**. Las demás sesiones se presentan aquí para mostrar el recorrido del curso y las conexiones que hacen útil el análisis territorial: entender el problema, coordinar una respuesta y comprobar sus resultados.
+
+## Docente de:  "6. Anticipación y prevención"
+
+**Profesor:** Denis Berroeta González ([denis.berroeta@uai.cl](mailto:denis.berroeta@uai.cl))
+
+- Coordinador de Investigación, Centro de Inteligencia Territorial UAI.
+- Doctorado (cursando) y Master of Data Science, FIC-UAI.
+- Magíster en Inteligencia Artificial, FIC-UAI.
+- Ingeniero en Prevención en Riesgos.

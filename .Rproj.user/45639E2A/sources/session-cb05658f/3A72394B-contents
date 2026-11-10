@@ -1,0 +1,79 @@
+# Plan de contenido: Anticipación y prevención
+
+**Curso:** Seguridad Comunitaria y Territorio (METRO, 2026)  
+**Sesión:** 6 de 8 · modalidad online sincrónica  
+**Duración de diseño:** 180 minutos lectivos + 15 minutos de pausa  
+**Horario de referencia:** 10 de noviembre de 2026, 14:30–17:45 (pausa 15:30–15:45), según el calendario del curso. El syllabus consigna otra fecha y horario; conviene confirmar cuál se comunicó a los participantes antes de distribuir la presentación.
+
+## Propósito de la sesión
+
+Comprender cómo la inteligencia territorial, la ciencia de datos y el análisis espacial contribuyen al diagnóstico y prevención de problemáticas de seguridad, reconociendo las principales fuentes de información, enfoques metodológicos y herramientas disponibles para apoyar la toma de decisiones.
+
+La pregunta que articula toda la clase es: **¿cómo pasamos de registros dispersos y señales territoriales a una decisión preventiva concreta, justificable y revisable?**
+
+## Resultados de aprendizaje observables
+
+Al terminar, cada participante debería poder:
+
+1. Distinguir la lógica y el horizonte de la prevención situacional, social y comunitaria, y escoger una combinación pertinente para un problema territorial definido.
+2. Proponer qué datos integrar para describir un problema de seguridad y reconocer al menos dos limitaciones de esos datos.
+3. Interpretar la diferencia entre una concentración observada (*hotspot*), una hipótesis sobre factores territoriales y un resultado de modelamiento espacial, sin confundir asociación con causalidad.
+4. Formular una prioridad de intervención que señale lugar, horario, mecanismo esperado, evidencia disponible, incertidumbre y una medida inicial de seguimiento.
+
+## Hilo conductor y límites de profundidad
+
+**Problema → datos → patrón espacio-temporal → hipótesis territorial → decisión preventiva → seguimiento.**
+
+El énfasis recae en **leer evidencia y tomar decisiones**. Las fórmulas, el ajuste estadístico y la programación de modelos se muestran solo en una lámina de referencia o lectura posterior. Los ejemplos deben distinguir incidentes dentro de estaciones, en accesos y en el entorno barrial: cada ámbito tiene fuentes, responsables y denominadores potencialmente distintos.
+
+## Secuencia de 3 horas lectivas
+
+| Hora | Min. | Bloque y pregunta guía | Contenido imprescindible | Dinámica y evidencia de aprendizaje |
+|---|---:|---|---|---|
+| 14:30–14:40 | 10 | **Apertura.** ¿Qué decisión necesitamos tomar? | Caso hipotético común: aumento de un tipo de incidente en algunas estaciones y accesos. Delimitar evento, lugar y periodo antes de mirar el mapa. | Encuesta rápida: ¿priorizar por número de eventos, tasa, percepción o vulnerabilidad? Se recupera al cierre. |
+| 14:40–15:05 | 25 | **Enfoques de prevención.** ¿Qué mecanismo queremos cambiar? | Prevención situacional (oportunidades y condiciones inmediatas del lugar), social (condiciones y trayectorias de mayor plazo) y comunitaria (organización, confianza y acción colectiva). Énfasis en la situacional: lugar, horario, oportunidad y acción gestionable. | Matriz comparativa con un mismo problema: mecanismo, escala, actor, plazo y tipo de evidencia para cada enfoque. Conexión con diseño seguro y alianzas vistos en sesiones 4 y 5. |
+| 15:05–15:30 | 25 | **Datos e integración.** ¿Qué sabemos y qué queda fuera del registro? | Registros policiales, reportes operacionales de Metro, datos municipales/territoriales y observación o relatos cualitativos. Cadena mínima de procesamiento a escala: captura, homologación de categorías, limpieza, unión espacial/temporal y actualización. Unidad de evento; fecha/hora; georreferenciación; duplicados; subregistro; acceso y resguardo de datos. Exposición pertinente, por ejemplo flujo de pasajeros cuando el evento ocurre dentro de la estación. | Inventario breve: elegir tres fuentes para el caso y anotar un sesgo o vacío de cada una. Comparar conteo absoluto con tasa solo cuando numerador y denominador cubren el mismo lugar, periodo y población expuesta. |
+| 15:30–15:45 | — | **Pausa** | | |
+| 15:45–16:20 | 35 | **Análisis espacial exploratorio.** ¿Dónde y cuándo se concentra el problema? | Mapas de eventos, agregación por estación/acceso/segmento, patrones por franja horaria, *hotspots* y comparación entre volumen y exposición. Sensibilidad a escala, límites espaciales y precisión de ubicación. | Lectura guiada de dos mapas del mismo caso: uno con conteos y otro con tasas o exposición. Los participantes proponen una zona/horario prioritario y una pregunta de verificación en terreno. |
+| 16:20–16:50 | 30 | **Modelamiento espacial.** ¿Qué factores podrían ayudar a explicar o anticipar el patrón? | Diferenciar descripción (*hotspot*), explicación/diagnóstico (factores del entorno, incluida la lógica de *Risk Terrain Modeling*) y predicción (estimación prospectiva). Introducción conceptual a un modelo explicativo espacial: variable de resultado, atributos del territorio, unidad de análisis y contraste. Alcances: asociación, validación temporal y territorial, incertidumbre. | Comparar tres salidas hipotéticas: mapa de concentración, mapa de factores de riesgo y resultado de un modelo. Pregunta clave: ¿qué decisión permite cada una y qué no demuestra? |
+| 16:50–17:25 | 35 | **Aplicación integrada.** ¿Qué haríamos primero? | Traducir la evidencia en una medida situacional concreta, con complemento social/comunitario cuando el mecanismo lo exija. Precisar ámbito de acción, actores y riesgo de desplazamiento o estigmatización. | Trabajo en grupos pequeños con una ficha de decisión. Se entrega un caso sintético de Metro con mapa, tabla de incidentes/exposición y dos observaciones cualitativas. |
+| 17:25–17:40 | 15 | **Puesta en común y puente.** ¿Cómo sabríamos si la respuesta avanza? | Comparar decisiones y supuestos. Definir una línea de base y un indicador preliminar, sin desarrollar todavía el sistema de monitoreo de la sesión 7. | Tres o cuatro grupos exponen en 90 segundos: prioridad, evidencia, incertidumbre y un indicador; los demás registran su respuesta en el chat. El docente muestra cómo esa ficha entra al plan de la sesión 8. |
+| 17:40–17:45 | 5 | **Cierre.** ¿Qué cambia después de analizar? | Tres ideas fuerza: el mapa localiza, la hipótesis orienta, la evaluación corrige. | Ticket de salida: una decisión que tomarían, el dato que falta y el riesgo de interpretación que vigilarían. |
+
+## Ficha de decisión para el ejercicio (una página)
+
+1. **Problema delimitado:** tipo de evento o situación, ubicación exacta, periodo y población expuesta.
+2. **Evidencia:** dos hallazgos cuantitativos y una observación cualitativa; fuente y calidad de cada uno.
+3. **Interpretación:** patrón observado, hipótesis sobre el mecanismo territorial y explicación alternativa.
+4. **Prioridad:** lugar y horario seleccionados; justificar si se privilegia volumen, tasa, daño u otra consideración.
+5. **Respuesta:** acción situacional específica; actores de Metro y del entorno que deban coordinarse; complemento social o comunitario si corresponde.
+6. **Verificación:** dato faltante, indicador inicial y posible efecto no deseado que conviene observar.
+
+## Conectores con el resto del curso
+
+| Sesión relacionada | Conexión concreta para esta clase |
+|---|---|
+| 1. Sociedad, territorio y delito | Retomar concentración espacial, vulnerabilidad y el cuidado frente a la estigmatización de barrios. |
+| 3. Crimen organizado y territorio | Tratar señales tempranas como hipótesis a contrastar con varias fuentes, no como etiquetas automáticas de lugares o personas. |
+| 4. Diseño seguro del territorio | Usar el diagnóstico para elegir **dónde y cuándo** aplicar una intervención física o de gestión; no repetir el catálogo CPTED. |
+| 5. Alianzas y redes | Identificar quién aporta información, interpreta el contexto y ejecuta una respuesta coordinada. |
+| 7. Indicadores y monitoreo | Entregar la ficha con línea de base, unidad de análisis, periodo e indicador preliminar. |
+| 8. Planes de seguridad y gestión | Convertir la prioridad justificada en una acción del plan, con responsables y secuencia de implementación. |
+
+## Ajuste de contenidos dentro del tiempo disponible
+
+**Incorporar dentro de los bloques existentes:** (a) escala y temporalidad del análisis; (b) denominadores o exposición pertinente, para que un volumen alto no se interprete automáticamente como mayor riesgo; (c) calidad de datos, privacidad y sesgos de registro; (d) contraste entre patrón, hipótesis y prueba causal. Son condiciones para usar bien los cuatro contenidos propuestos, no unidades adicionales.
+
+**Dejar como profundización posterior:** demostración de software SIG, estimación de densidad de kernel o estadísticos espaciales paso a paso, ajuste de regresiones espaciales, algoritmos de aprendizaje automático, calibración de modelos y evaluación causal de intervenciones. En tres horas desplazarían la práctica de decisión que requiere el curso.
+
+## Material mínimo para desarrollar los contenidos
+
+- Una lámina con la comparación de enfoques y un ejemplo común.
+- Un esquema de integración de fuentes con unidad espacial y temporal explícita.
+- Dos mapas comparables del caso sintético (conteos y tasa/exposición) y una tabla pequeña de datos.
+- Una lámina que contraste *hotspot*, factores territoriales (*Risk Terrain Modeling*) y modelo explicativo/predictivo.
+- La ficha de decisión y un ejemplo resuelto en versión docente.
+
+**Referencias de apoyo metodológico:** Caplan et al. (2015), [*Risk Terrain Modeling for Spatial Risk Assessment*](https://nij.ojp.gov/library/publications/risk-terrain-modeling-spatial-risk-assessment); Center for Problem-Oriented Policing, [*Know how to use rates and denominators*](https://popcenter.asu.edu/content/step-27-know-how-use-rates-and-denominators). La bibliografía general del syllabus también incluye Caplan y Kennedy (2016).
+
+**Fuentes del encuadre docente:** `Syllabus Curso Seguridad Comunitaria y Territorio_2026_METRO.pdf` y `docs/Calendario - Curso Seguridad Comunitaria y Territorio - Metro.pdf`.

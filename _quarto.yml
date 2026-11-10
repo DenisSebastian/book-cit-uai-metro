@@ -1,0 +1,46 @@
+project:
+  type: book
+  output-dir: docs
+  resources:
+    - diagramas/*.svg
+
+lang: es
+
+book:
+  title: "Anticipación y prevención"
+  subtitle: "Sesión 6 de Seguridad comunitaria y territorio · Metro 2026"
+  search: true
+  page-footer:
+    left: "Anticipación y prevención · Metro 2026"
+    right: "Versión {{< var version >}}"
+  chapters:
+    - index.qmd
+    - 06-anticipacion-prevencion.qmd
+    - 06a-enfoques-preventivos.qmd
+    - 06b-datos-territoriales.qmd
+    - 06c-lectura-espacial.qmd
+    - 06d-modelamiento.qmd
+    - conclusiones.qmd
+    - references.qmd
+
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    html-math-method: katex
+    toc-title: "En esta página"
+    css: styles/style.css
+    fig-align: "center"
+    fig-cap-location: "bottom"
+    tab-cap-location: "left"
+    mailto: "denis.berroeta@uai.cl"
+    code-block-bg: true
+    code-block-border-left: "#31BAE9"
+  
+execute:
+  warning: false
+  
+editor: source
+always_allow_html: true

@@ -1,0 +1,263 @@
+# Anticipación y prevención: de la señal territorial a la decisión
+
+**Curso:** Seguridad Comunitaria y Territorio · METRO 2026  
+**Sesión:** 6 · 180 minutos lectivos y 15 minutos de pausa  
+**Uso previsto:** texto base para desarrollar la clase, sus láminas y el ejercicio aplicado.  
+**Pregunta transversal:** ¿qué evidencia necesitamos para anticipar un problema de seguridad, intervenir con sentido territorial y reconocer lo que aún no sabemos?
+
+Esta sesión recibe tres aprendizajes del curso: el territorio influye en la experiencia de seguridad; el diseño de los espacios puede modificar oportunidades; y la acción institucional necesita alianzas. Su aporte propio consiste en **unir esas ideas con datos y análisis para elegir una intervención preventiva**. La sesión siguiente tomará la intervención elegida y construirá indicadores y un sistema de monitoreo.
+
+Se utilizará un **caso didáctico ficticio**, llamado *Estaciones A y B*. Todas sus cifras y observaciones son inventadas. Representa reportes de sustracción de pertenencias **dentro de estaciones** durante un mismo trimestre. Si en la discusión aparecen accesos o calles del entorno, se tratarán como otra unidad de observación y no se mezclarán sus incidentes ni sus denominadores con los del interior.
+
+## Recorrido de la clase
+
+| Bloque | Tiempo | Pregunta que resuelve | Producto que entrega al siguiente bloque |
+|---|---:|---|---|
+| 0. Apertura | 10 min | ¿Qué significa anticipar? | Un problema definido y una decisión pendiente |
+| 1. Enfoques preventivos | 25 min | ¿Qué mecanismo queremos cambiar? | Una hipótesis de prevención |
+| 2. Datos e inteligencia territorial | 25 min | ¿Con qué evidencia contamos? | Una base de información interpretable |
+| Pausa | 15 min | | |
+| 3. Lectura espacial | 35 min | ¿Dónde, cuándo y para quién se concentra el problema? | Una prioridad provisional y una duda |
+| 4. Modelamiento | 30 min | ¿Qué factores podrían explicar o anticipar el patrón? | Una hipótesis contrastable y su incertidumbre |
+| 5. Decisión preventiva | 35 min | ¿Qué haríamos, quién lo haría y por qué? | Una ficha de decisión |
+| 6. Cierre y transferencia | 20 min | ¿Qué debe medirse después? | Insumos para indicadores y plan de seguridad |
+
+---
+
+## Bloque 0 · Abrir el problema antes de abrir el mapa (10 min)
+
+### Entrada: anticipar es reducir incertidumbre para actuar
+
+En seguridad territorial, *anticipar* no significa saber quién cometerá un delito ni garantizar dónde ocurrirá el siguiente evento. Significa reconocer condiciones y patrones que permiten actuar **antes de que un problema se repita o se agrave**. *Prevenir* significa escoger una acción que reduzca una oportunidad, una vulnerabilidad o un daño posible. La inteligencia territorial es el proceso de reunir, contrastar e interpretar información sobre lugares, tiempos, usos y actores para apoyar esa elección.
+
+Esta definición importa porque un registro puede empujar a actuar demasiado pronto. Si un mapa señala una estación con muchos reportes, todavía no sabemos si allí existe mayor riesgo por viaje, si simplemente circulan más personas, si se reporta con mayor facilidad o si cambió el modo de registrar. La primera tarea es formular una pregunta de gestión que los datos puedan responder.
+
+### Fundamento y aplicación
+
+La unidad mínima de análisis combina **qué ocurrió, dónde, cuándo, a quién afectó y qué decisión está en juego**. El mismo espacio puede exigir respuestas distintas para hurto, agresión, acoso, comercio ilegal o percepción de inseguridad. Una estación es, además, un lugar de operación de transporte y un nodo conectado con calles, paraderos, comercio y vida barrial. Por eso, el límite de la estación no equivale al límite del problema.
+
+En Chile, el plan comunal de seguridad pública exige un diagnóstico y la priorización de problemáticas conforme a la realidad de cada comuna. Esto ofrece un punto de encuentro con la operación de Metro cuando el problema cruza del recinto a su entorno, siempre dentro de las competencias de cada institución. [Ley Orgánica Constitucional de Municipalidades, arts. 104 A y 104 F](https://www.bcn.cl/leychile/navegar?idNorma=251693).
+
+**En Metro**, la pregunta inicial del caso será: «¿dónde y en qué horario conviene revisar primero las condiciones asociadas a los reportes de sustracción dentro de las estaciones A y B?». Aún no decidimos aumentar vigilancia, cambiar el diseño ni comunicar una alerta. Primero definimos qué clase de problema observamos.
+
+**Microactividad:** pedir que cada participante escriba en el chat una decisión que tomaría con un mapa de incidentes y el dato que necesitaría para defenderla. Conservar dos respuestas para volver a ellas al cierre.
+
+**Puente:** una vez delimitado el problema, la siguiente pregunta no es todavía «¿qué tecnología usar?», sino **«¿qué mecanismo preventivo queremos activar?»**.
+
+## Bloque 1 · Elegir el mecanismo de prevención (25 min)
+
+### Entrada: tres enfoques para distintos mecanismos
+
+La **prevención situacional** modifica condiciones inmediatas que facilitan un hecho específico: visibilidad, organización de flujos, control de accesos, supervisión, información y gestión del espacio. La **prevención social** trabaja sobre condiciones y trayectorias que pueden aumentar o reducir la exposición a violencia o participación delictiva en plazos más largos. La **prevención comunitaria** fortalece la capacidad de actores locales para reconocer problemas, construir confianza y coordinar respuestas. Son enfoques complementarios; se distinguen por el mecanismo que intentan cambiar y por la escala de intervención. Las [Directrices de Naciones Unidas para la Prevención del Delito](https://www.unodc.org/pdf/res_2002-13.pdf) reconocen estos tipos de acción.
+
+| Enfoque | Pregunta rectora | Unidad habitual | Ejemplo posible para el caso |
+|---|---|---|---|
+| Situacional | ¿Qué oportunidad concreta aparece en este lugar y horario? | Pasillo, acceso, andén, estación y franja horaria | Revisar un punto de baja visibilidad y ajustar presencia o gestión del flujo |
+| Social | ¿Qué condiciones de fondo producen vulnerabilidad o daño sostenido? | Personas, grupos, barrios y trayectorias | Coordinar con redes especializadas una respuesta ante victimización reiterada o violencia |
+| Comunitario | ¿Cómo se organiza una respuesta legítima entre actores del entorno? | Red de instituciones, trabajadores, vecinos y usuarios | Coordinar reportes y acciones sobre el acceso con municipio, comercio y organizaciones |
+
+### Fundamentos teóricos que sí ayudan a decidir
+
+El enfoque de **actividades rutinarias** observa la convergencia de personas, objetivos y protección en un lugar y momento. Su traducción práctica es el triángulo de análisis del problema: hecho, lugar y personas se estudian en conjunto, en vez de atribuir el problema a una supuesta «naturaleza peligrosa» del barrio. La prevención situacional deriva de esta lectura: puede aumentar el esfuerzo de cometer el hecho, aumentar su riesgo percibido, reducir su beneficio, disminuir provocaciones o aclarar reglas. Las categorías son una guía para formular hipótesis, no un catálogo que se aplique sin diagnóstico. [Center for Problem-Oriented Policing: triángulo](https://popcenter.asu.edu/content/problem-analysis-triangle-0) y [prevención situacional](https://popcenter.asu.edu/sites/g/files/litvpz3631/files/about/indexd977.html?p=situational).
+
+La prevención social recuerda que la distribución del daño no se explica solo por diseño físico. La prevención comunitaria recuerda que las medidas necesitan conocimiento local, legitimidad y coordinación. En este curso ya se estudiaron cohesión social, diseño seguro y alianzas; aquí se usan como **posibles mecanismos de respuesta**, sin repetir las clases previas.
+
+### Chile y Metro: traducir el enfoque en actores
+
+La legislación municipal chilena reconoce acciones de prevención y dispone consejos y planes comunales de seguridad pública. El plan debe adaptar sus estrategias a la realidad de la comuna e incluir acciones de tipo social, comunitario y situacional. Eso permite enseñar los tres enfoques como opciones institucionalmente relevantes, con distintos responsables y horizontes. [Texto vigente de la Ley Orgánica de Municipalidades](https://www.bcn.cl/leychile/navegar?idNorma=251693).
+
+Para Metro, la primera decisión es distinguir lo que puede gestionarse en la operación de una estación de lo que requiere coordinación fuera de ella. Una revisión de circulación, visibilidad, apoyo al pasajero o presencia en una franja horaria pertenece al plano situacional. Una intervención sostenida en el entorno puede involucrar al municipio, policías, servicios especializados y actores comunitarios. Los antecedentes públicos sobre seguridad operacional de Metro describen coordinación con policías y municipios, además de apoyo a usuarios y medidas tecnológicas; son ejemplos de tipos de acción disponibles, **no prueba de que una medida concreta funcione en nuestro caso ficticio**. [Gobierno de Santiago, plan de seguridad operacional de Metro](https://www.gobiernosantiago.cl/2025/02/27/autoridades-presentan-plan-marzo-seguro-en-metro/).
+
+El mismo método se traslada a problemas diferentes sin tratarlos como equivalentes:
+
+| Situación a delimitar | Pregunta preventiva específica | Dato o actor que cobra más importancia |
+|---|---|---|
+| Sustracción de pertenencias dentro de una estación | ¿En qué punto y horario aparece una oportunidad repetida? | Reporte localizado, flujo comparable y observación operativa |
+| Reportes de acoso o agresión a pasajeros | ¿Dónde se puede pedir ayuda y recibir una respuesta segura y oportuna? | Experiencia de las personas afectadas, protocolo de atención y resguardo de la información |
+| Incidentes en accesos o calles próximas | ¿Qué parte ocurre fuera del recinto y quién puede actuar allí? | Observación del entorno, municipio, policías y flujos peatonales |
+| Daños o conductas que afectan el servicio | ¿Se repiten en una infraestructura, horario o condición de operación? | Registro de mantenimiento, operación y seguridad; definición precisa del hecho |
+
+Esta comparación evita que una única respuesta, como aumentar cámaras o presencia, se convierta en solución genérica para problemas con mecanismos distintos.
+
+**Microactividad:** presentar una situación única y pedir tres respuestas posibles, una por enfoque. Luego preguntar qué dato haría falta para elegir entre ellas. La respuesta correcta no es siempre «más presencia»: depende del mecanismo plausible y del ámbito de acción.
+
+**Idea de cierre:** *una intervención es defendible cuando se puede decir qué condición espera cambiar*. Para identificar esa condición necesitamos datos comparables.
+
+## Bloque 2 · Convertir fuentes dispersas en inteligencia territorial (25 min)
+
+### Entrada: un dato es una observación producida por un sistema
+
+Un reporte operacional, una denuncia policial y un relato de usuario pueden referirse al mismo hecho, a hechos diferentes o a dimensiones distintas de una situación. Ninguno equivale por sí solo a «todo el delito ocurrido». **Dato** es una observación registrada con una definición, un procedimiento y un propósito; **información** es ese dato ordenado para responder una pregunta; **inteligencia territorial** es la interpretación que vincula fuentes, contexto y decisión.
+
+Esto importa porque la prevención puede errar incluso con grandes volúmenes de registros. Una base masiva con categorías cambiantes, localizaciones imprecisas o hechos duplicados produce mapas convincentes y decisiones frágiles. El procesamiento a escala aumenta velocidad y cobertura, pero también puede repetir sistemáticamente los errores de origen.
+
+### Fuentes, usos y vacíos
+
+| Fuente | Aporta | No permite concluir por sí sola |
+|---|---|---|
+| Reportes operacionales de Metro | Momento, lugar operativo, tipo de aviso y respuesta | Magnitud total del delito ni calificación penal definitiva |
+| Registros policiales o de otras instituciones competentes | Hechos conocidos por esas instituciones y categorías formales | Todo lo no denunciado o no detectado |
+| Flujos y operación | Exposición aproximada, franjas, cambios de servicio y condiciones de circulación | Riesgo individual exacto; una validación no siempre equivale a una persona única expuesta |
+| Territorio y entorno | Red vial, usos, equipamientos, conexión modal y condiciones físicas | Causa de un evento solo por su proximidad en el mapa |
+| Encuestas, observación y relatos | Experiencia de seguridad, usos evitados y mecanismos que los registros no describen | Frecuencia comparable si la muestra o el protocolo no lo permiten |
+
+En Chile, el [CEAD](https://www.chileatiende.gob.cl/fichas/114579-centro-) ofrece estadísticas delictuales para escalas nacional, regional y comunal; la [ENUSC del INE](https://www.ine.gob.cl/estadisticas-por-tema/sociedad-y-condiciones-de-vida/seguridad-ciudadana/informacion-de-la-encuesta) informa sobre victimización y percepción; e [IDE Chile](https://www.ide.cl/) permite ubicar y documentar capas territoriales. Estas fuentes sirven para contextualizar una estación o una comuna, pero **sus niveles de agregación no sustituyen el registro localizado que exige una decisión dentro de una estación**. La ENUSC es una encuesta a residentes y no una encuesta de pasajeros de Metro.
+
+### Cadena mínima de integración
+
+La secuencia de trabajo es: **definir el evento → identificar fuentes → homologar categorías → limpiar y deduplicar → fijar unidad espacial y temporal → georreferenciar → revisar cobertura y sesgos → producir un conjunto analítico con trazabilidad**. Antes de unir bases debe acordarse qué significa «incidente», si se cuenta un hecho o varios avisos, qué fecha se usa y si el lugar es estación, acceso o calle. Cada cambio de criterio debe quedar documentado para que una variación del indicador no se confunda con una variación del problema.
+
+Para comparar estaciones, el denominador debe representar la exposición relevante. Si se analizan reportes **dentro** de la estación, las validaciones pueden ser una primera aproximación, con límites que deben declararse. Para hechos **fuera** de la estación se requeriría otra estimación de exposición, por ejemplo flujo peatonal del acceso. Comparar eventos y población expuesta exige igual definición de lugar y periodo. [Center for Problem-Oriented Policing, tasas y denominadores](https://popcenter.asu.edu/content/step-27-know-how-use-rates-and-denominators).
+
+### Resguardo y aplicación en Metro
+
+El análisis docente utilizará datos sintéticos y agregados. En una aplicación real, hay que definir finalidad, acceso, retención y protección de datos personales antes de cruzar registros o imágenes; mapas públicos y láminas de clase deben evitar identificar víctimas o personas señaladas. **A la fecha prevista de esta clase, 10 de noviembre de 2026, la Ley 19.628 sigue vigente y la reforma de la Ley 21.719 está prevista para entrar en vigor el 1 de diciembre de 2026.** El diseño del tratamiento debe revisarse con el equipo jurídico y de datos de la institución. [Consejo para la Transparencia](https://www.consejotransparencia.cl/datos-personales/).
+
+En el caso A/B se entregan reportes internos agregados por estación y trimestre, validaciones del mismo periodo y dos notas de observación. Los participantes deben decidir qué fuente agrega contexto y cuál falta para evaluar un pasillo específico.
+
+**Microactividad:** elegir tres fuentes y escribir para cada una una utilidad y un sesgo. Si alguien propone «usar todas las cámaras», pedir que precise qué variable se extraería, para qué decisión y con qué resguardos.
+
+**Puente:** una vez que sabemos qué representan los registros, podemos preguntar **dónde y cuándo se concentra el problema**. El mapa será una lectura de esos registros, no una fotografía completa de la realidad.
+
+## Bloque 3 · Leer el patrón espacial sin convertirlo en explicación (35 min)
+
+### Entrada: localizar, comparar y volver al terreno
+
+El análisis espacial exploratorio organiza eventos según **lugar, tiempo y exposición**. Una concentración o *hotspot* es un sector que acumula más hechos registrados que otros bajo una definición dada. Sirve para enfocar preguntas y recursos; por sí sola no explica por qué aparecen allí los hechos ni garantiza que el patrón continúe. La unidad elegida cambia la lectura: una comuna, un entorno de estación, un acceso, un pasillo y un andén responden preguntas distintas.
+
+La importancia práctica es inmediata. Si se usa un mapa comunal para decidir dónde ubicar personal en un pasillo, la escala de evidencia no corresponde a la escala de la intervención. Si se agregan todos los días y horas, se puede ocultar que el problema se concentra en una franja breve. Si se comparan solo números absolutos, se puede confundir volumen de viajes con riesgo por exposición.
+
+### Una progresión de cuatro lecturas
+
+1. **Ubicar los reportes:** puntos o unidades operativas con precisión conocida. Preguntar si el lugar registrado es el del hecho, el de la denuncia o el de la respuesta.
+2. **Agregar y comparar:** contar por estación, acceso o segmento y por franja horaria. No usar unidades demasiado pequeñas cuando hay pocos eventos o la ubicación es imprecisa.
+3. **Ajustar por exposición:** calcular tasas cuando exista un denominador coherente. El conteo informa la carga total de incidentes; la tasa aproxima el riesgo por unidad expuesta.
+4. **Explorar concentraciones:** visualizar densidad, repetición de lugares y persistencia temporal. Un mapa de calor puede ayudar a detectar un patrón, pero sus colores y parámetros no sustituyen una comparación verificable.
+
+La exploración debe cerrar con una pregunta de terreno. Si varios reportes parecen concentrarse cerca de un corredor, corresponde verificar horarios, visibilidad, flujos, categorías de registro y experiencia del personal y de usuarios. La guía de análisis del [Center for Problem-Oriented Policing](https://popcenter.asu.edu/content/step-23-diagnose-your-hot-spot) insiste en diagnosticar lo que ocurre dentro de un lugar señalado como *hotspot*. Para comparar instalaciones o zonas con distinto número de personas expuestas, la misma fuente recomienda usar [tasas y denominadores apropiados](https://popcenter.asu.edu/content/step-27-know-how-use-rates-and-denominators).
+
+### Caso A/B: dos mapas pueden sugerir prioridades distintas
+
+Los siguientes datos son **ficticios** y corresponden a reportes de un mismo tipo de sustracción, ocurridos dentro de la estación en un mismo trimestre:
+
+| Estación ficticia | Reportes | Validaciones | Reportes por 100.000 validaciones |
+|---|---:|---:|---:|
+| A | 40 | 1.000.000 | 4 |
+| B | 20 | 250.000 | 8 |
+
+Un mapa de **conteos** destaca A: allí se concentra el doble de reportes y puede haber mayor carga operativa total. Un mapa de **tasas** destaca B: bajo esta aproximación, se registran el doble de reportes por cada 100.000 validaciones. Ambas son lecturas útiles para decisiones diferentes. Ninguna prueba que un pasajero individual tenga exactamente ese riesgo; las validaciones son una aproximación de exposición y deben revisarse según transbordos, entradas, salidas, horarios y ubicación efectiva de los hechos.
+
+La nota de observación del caso señala que en B varios reportes se ubican en la franja 18:00–20:00 cerca de un corredor. Esa nota **plantea una hipótesis**: quizá la configuración del flujo y la visibilidad en esa franja contribuyen al problema. Antes de intervenir habría que comprobar si los reportes están bien localizados, si la concentración persiste y qué ocurre realmente en el lugar. Una segunda nota indica que los reportes de A se distribuyen más a lo largo del día; eso abre otra hipótesis de gestión, sin volver «segura» a A.
+
+### Chile y Metro: respetar la escala
+
+Un indicador comunal del CEAD o una estimación de victimización de la ENUSC pueden mostrar el contexto urbano de una estación. Ninguno permite identificar un pasillo crítico. Para ese nivel se requieren registros operacionales suficientemente precisos y trabajo de campo. En Metro conviene enseñar tres capas separadas: **interior de estación, accesos y entorno de caminata**. Se pueden relacionar, pero se analizan con unidades, exposiciones y responsables adecuados a cada una.
+
+**Actividad guiada:** mostrar primero el mapa de conteos y pedir una prioridad; revelar después el mapa de tasas y la nota horaria. Cada participante debe completar la frase: «Priorizaría ___ para ___, porque ___; antes verificaría ___». La discusión enseña que priorizar por carga, riesgo o gravedad puede dar respuestas distintas.
+
+**Puente:** ya sabemos **dónde** mirar con más atención. Para decidir **por qué** sucede y qué condición modificar, necesitamos una hipótesis territorial que pueda ponerse a prueba.
+
+## Bloque 4 · Explicar, modelar y anticipar con límites claros (30 min)
+
+### Entrada: tres preguntas, tres productos
+
+Un mapa descriptivo responde **dónde se registraron hechos**. Un modelo explicativo pregunta **qué características del lugar se asocian con su distribución**. Un modelo predictivo estima **dónde o cuándo podrían registrarse hechos futuros**, bajo supuestos que deben comprobarse. Estas preguntas son cercanas, pero no intercambiables. Anticipar puede apoyarse en modelos; también puede comenzar con una tendencia robusta, conocimiento del terreno y una acción reversible.
+
+| Herramienta | Producto principal | Decisión que ayuda a tomar | Límite esencial |
+|---|---|---|---|
+| *Hotspot* retrospectivo | Concentración de eventos ya registrados | Dónde investigar primero | No revela el mecanismo |
+| Modelo explicativo espacial | Asociación entre resultado y factores territoriales | Qué hipótesis conviene contrastar | Asociación no demuestra causalidad |
+| *Risk Terrain Modeling* (RTM) | Superficie de riesgo construida a partir de factores espaciales seleccionados | Dónde examinar condiciones del entorno, incluso fuera del foco histórico | Depende de factores medidos, escala y validación |
+| Pronóstico espacio-temporal | Estimación para un periodo futuro | Cómo preparar recursos o una prueba piloto | Puede perder precisión si cambian registros, flujos o condiciones |
+
+En términos sencillos, un modelo necesita: **un resultado** bien definido (por ejemplo, reportes por estación y semana); **factores** plausibles y medibles (flujo, horario, configuración del espacio, condiciones del entorno); **una unidad de análisis**; y **una comprobación** con datos que no se usaron para formularlo. El RTM examina factores del paisaje y su combinación espacial para construir un diagnóstico de riesgo; por ello complementa una lectura basada solo en delitos pasados. [National Institute of Justice, introducción al RTM](https://nij.ojp.gov/library/publications/risk-terrain-modeling-spatial-risk-assessment).
+
+### Qué mirar antes de confiar en una salida
+
+- **Calidad del resultado:** si cambió la forma de reportar, el modelo puede «aprender» el cambio administrativo.
+- **Exposición:** más pasajeros pueden generar más reportes sin aumentar el riesgo por viaje; comparar unidades exige ajustar o al menos discutir esa diferencia.
+- **Escala y transferencia:** una relación observada entre estaciones no tiene por qué explicar cada pasillo, ni un modelo de un trimestre tiene por qué funcionar en otro.
+- **Validación temporal y territorial:** probar el modelo en otro periodo o conjunto de estaciones antes de usarlo para distribuir recursos.
+- **Interpretación y equidad:** un factor asociado no identifica culpables ni autoriza etiquetar personas o barrios. Hay que revisar si la intervención podría producir estigmatización o desplazamiento.
+
+### Chile y Metro: de la salida estadística a la hipótesis operativa
+
+En Chile, las capas de contexto territorial y las estadísticas oficiales ayudan a seleccionar factores y a contrastar la plausibilidad general de una hipótesis; los datos propios de Metro son necesarios para examinar su operación específica. Las fuentes públicas de escala comunal no se deben presentar como si tuvieran precisión de estación. El uso de datos individuales y de imágenes exige, además, los resguardos señalados en el bloque anterior.
+
+En el caso A/B, un modelo hipotético podría encontrar una asociación entre reportes y una combinación de concentración horaria de pasajeros, configuración de corredores y menor visibilidad observada. **La lectura correcta sería:** «este patrón justifica una auditoría de esos espacios y una prueba preventiva». **No sería:** «el modelo demostró que el corredor causa el delito». Si la revisión en terreno contradice la hipótesis, se corrige el modelo o se busca otra explicación.
+
+**Microactividad:** presentar tres imágenes del mismo caso (conteos, factores territoriales y pronóstico) y pedir que cada grupo escriba una frase que **sí** puede sostenerse y otra que requeriría evidencia adicional. No se enseñan ecuaciones: se enseña a no sobreinterpretar.
+
+**Puente:** el análisis ya produjo una prioridad provisional y una hipótesis con incertidumbre. Falta el paso decisivo: **convertirlas en una acción posible, coordinada y medible**.
+
+## Bloque 5 · De la evidencia a una respuesta preventiva (35 min)
+
+### Entrada: priorizar es elegir bajo restricciones
+
+Una intervención preventiva no se desprende mecánicamente del color más intenso de un mapa. La elección combina **magnitud del daño, riesgo por exposición, gravedad, concentración temporal, capacidad de acción, coordinación necesaria y posibles efectos no deseados**. Un lugar con muchos hechos puede requerir atención por su carga total; otro, con menos hechos pero una tasa mayor, puede revelar una vulnerabilidad localizada. La prioridad debe declarar qué criterio pesa más y por qué.
+
+La cadena de decisión que usaremos es: **hallazgo → mecanismo plausible → acción → responsable → señal temprana de implementación → resultado esperado → verificación**. Esta cadena permite examinar la lógica de una medida sin prometer un efecto que aún no se ha medido.
+
+### Aplicación chilena y operativa
+
+Para una medida dentro de estación, el equipo de Metro puede revisar sus procesos de operación y seguridad, la configuración de flujos y el apoyo al pasajero. Si la hipótesis se sitúa en un acceso o calle, la acción requiere coordinación con quienes tienen competencia en ese espacio. Los consejos y planes comunales son una instancia pertinente para articular diagnósticos y compromisos territoriales; la legislación mantiene las competencias propias de policías y Ministerio Público. [Ley Orgánica Constitucional de Municipalidades, título IV A](https://www.bcn.cl/leychile/navegar?idNorma=251693).
+
+Como ejemplo **hipotético**, si B mantiene una tasa elevada y la franja 18:00–20:00 concentra reportes en un corredor, una primera respuesta situacional podría consistir en verificar la visibilidad y circulación, ajustar apoyo operativo durante esa franja y mejorar la señalización de canales de aviso. La medida se seleccionaría después de inspección y revisión de factibilidad. Si la información cualitativa revela que el problema continúa hacia un acceso, habría que construir una acción coordinada para ese tramo, sin extender automáticamente el diagnóstico interior al espacio público.
+
+La respuesta puede combinar enfoques. La acción situacional atiende una oportunidad inmediata; la comunitaria incorpora observación y coordinación del entorno; una respuesta social especializada puede ser pertinente si el problema identificado involucra vulneraciones persistentes que exceden la operación de transporte. La combinación se justifica por mecanismos diferentes, no por sumar medidas sin criterio.
+
+### Taller de decisión: caso Estaciones A y B
+
+**Material entregado:** dos mapas comparables, tabla de reportes y validaciones, desglose horario, dos notas cualitativas y una ficha de decisión. Todo es sintético.
+
+1. **5 minutos · delimitar:** cada grupo define el problema, ámbito y periodo. Puede escoger A por carga total o B por tasa; debe explicitar su criterio.
+2. **15 minutos · argumentar:** identifica un patrón, una explicación alternativa y el dato que falta. Propone una acción situacional concreta y, si el ámbito lo requiere, un actor o acción comunitaria complementaria.
+3. **10 minutos · diseñar verificación:** señala responsable, señal de implementación, resultado esperado y efecto no deseado a vigilar (por ejemplo desplazamiento a otro acceso, cambios de denuncia o estigmatización).
+4. **5 minutos · preparar devolución:** resume en una frase «priorizamos ___, porque ___; haremos ___; comprobaremos ___».
+
+**Criterio docente de una buena respuesta:** el problema está definido; numerador y denominador son compatibles; el mecanismo conecta con la acción; se reconoce una explicación alternativa; la medida respeta el ámbito de competencia; y existe un modo inicial de saber si se ejecutó. La ficha no se califica por escoger A o B, sino por la calidad del razonamiento.
+
+**Puente:** la decisión ya está formulada. Ahora debe sobrevivir al paso del tiempo: **¿cómo distinguiremos una medida ejecutada de una medida eficaz?**
+
+## Bloque 6 · Cerrar la decisión y entregar el hilo al monitoreo (20 min)
+
+### Entrada: una medida necesita memoria
+
+La anticipación se vuelve gestión cuando la decisión deja un registro de sus supuestos y de cómo se revisará. El cierre de esta clase no busca evaluar el impacto de una intervención que aún no existe. Busca dejar una **línea de base** y preguntas que la sesión siguiente convertirá en indicadores sólidos.
+
+Tres tipos de señal preparan ese trabajo. Una señal de **implementación** indica si la medida se aplicó según lo previsto (por ejemplo, revisión del corredor realizada o apoyo desplegado en la franja acordada). Una señal de **resultado** observa si cambian los reportes comparables o la experiencia de seguridad. Una señal de **contexto** advierte si variaron los flujos, el sistema de registro, los horarios de servicio o las condiciones del entorno. Sin la tercera, se puede atribuir a la intervención un cambio que tiene otra explicación.
+
+### Chile, Metro y el curso como una sola secuencia
+
+El diseño del plan comunal chileno vincula diagnóstico, objetivos, acciones y control de gestión. En Metro, la misma lógica puede expresarse como una ficha operativa por problema: unidad territorial, periodo, fuentes, hipótesis, medida, responsables y revisión. Esa ficha es el **producto final de esta sesión**. La clase 7 puede convertirla en indicadores de proceso, resultado e impacto; la clase 8 puede integrarla a un plan de seguridad y gestión territorial. [Ley Orgánica Constitucional de Municipalidades, art. 104 F](https://www.bcn.cl/leychile/navegar?idNorma=251693).
+
+**Puesta en común:** tres o cuatro grupos presentan en 90 segundos su decisión, evidencia e incertidumbre; los demás registran su ficha en el chat. El docente recupera la pregunta de apertura y muestra qué cambió al pasar de una intuición a una decisión argumentada.
+
+**Cierre oral sugerido:** «El mapa nos ayuda a localizar; los datos y el terreno nos ayudan a interpretar; la teoría nos ayuda a formular un mecanismo; la coordinación permite actuar; y el monitoreo nos obliga a corregir». Los estudiantes entregan un ticket de salida con **una decisión**, **un dato faltante** y **un riesgo de interpretación**.
+
+**Conector explícito a la siguiente clase:** «Hoy fijamos *qué* problema priorizar, *dónde*, *cuándo* y *con qué mecanismo* intervenir. En Indicadores y monitoreo convertiremos esa hipótesis en medidas observables: qué línea de base usar, cómo seguir la implementación y qué cambio sería razonable atribuir a la intervención».
+
+---
+
+## Ficha de decisión que debe quedar al terminar la sesión
+
+| Campo | Pregunta de control |
+|---|---|
+| Problema | ¿Qué hecho o experiencia analizamos, en qué ámbito y periodo? |
+| Evidencia | ¿Qué muestran los registros, la exposición y la observación cualitativa? |
+| Calidad | ¿Qué sesgo, vacío o cambio de registro puede alterar la lectura? |
+| Patrón | ¿Dónde y cuándo se concentra? ¿Qué cambia entre conteos y tasas? |
+| Hipótesis | ¿Qué condición territorial podría contribuir al patrón? ¿Qué otra explicación existe? |
+| Prioridad | ¿Por qué se escoge ese lugar y horario frente a otros? |
+| Acción | ¿Qué condición modificará la medida, quién puede ejecutarla y con quién debe coordinarse? |
+| Verificación | ¿Qué indicaría que se implementó? ¿Qué resultado se espera? ¿Qué contexto y efectos no deseados se vigilarán? |
+
+## Referencias para preparar láminas y lectura posterior
+
+- [Syllabus del curso](Syllabus%20Curso%20Seguridad%20Comunitaria%20y%20Territorio_2026_METRO.pdf) y [calendario operativo](docs/Calendario%20-%20Curso%20Seguridad%20Comunitaria%20y%20Territorio%20-%20Metro.pdf).
+- [Naciones Unidas, Directrices para la Prevención del Delito](https://www.unodc.org/pdf/res_2002-13.pdf): marco de enfoques preventivos.
+- [Center for Problem-Oriented Policing, triángulo de análisis](https://popcenter.asu.edu/content/problem-analysis-triangle-0), [prevención situacional](https://popcenter.asu.edu/sites/g/files/litvpz3631/files/about/indexd977.html?p=situational) y [tasas y denominadores](https://popcenter.asu.edu/content/step-27-know-how-use-rates-and-denominators).
+- [National Institute of Justice, *Risk Terrain Modeling for Spatial Risk Assessment*](https://nij.ojp.gov/library/publications/risk-terrain-modeling-spatial-risk-assessment).
+- [Biblioteca del Congreso Nacional, Ley Orgánica Constitucional de Municipalidades](https://www.bcn.cl/leychile/navegar?idNorma=251693), especialmente arts. 104 A–F.
+- [INE, ENUSC](https://www.ine.gob.cl/estadisticas-por-tema/sociedad-y-condiciones-de-vida/seguridad-ciudadana/informacion-de-la-encuesta), [CEAD](https://www.chileatiende.gob.cl/fichas/114579-centro-), [IDE Chile](https://www.ide.cl/) y [Consejo para la Transparencia, datos personales](https://www.consejotransparencia.cl/datos-personales/).
+- [Gobierno de Santiago, antecedentes del plan de seguridad operacional de Metro](https://www.gobiernosantiago.cl/2025/02/27/autoridades-presentan-plan-marzo-seguro-en-metro/).

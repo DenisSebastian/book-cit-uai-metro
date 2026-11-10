@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "Del problema a la respuesta preventiva",
+    "quality_profile": "showcase"
+  },
+  "lanes": [
+    {
+      "id": "decision",
+      "label": "Decisión en Metro"
+    }
+  ],
+  "mainPath": [
+    "definir",
+    "mecanismo",
+    "enfoque",
+    "accion",
+    "revision"
+  ],
+  "nodes": [
+    {
+      "id": "definir",
+      "lane": "decision",
+      "col": 0,
+      "type": "database",
+      "label": "Definir el hecho",
+      "sublabel": "lugar y horario",
+      "width": 160
+    },
+    {
+      "id": "mecanismo",
+      "lane": "decision",
+      "col": 1,
+      "type": "backend",
+      "label": "Examinar el mecanismo",
+      "sublabel": "qué facilita el hecho",
+      "width": 160
+    },
+    {
+      "id": "enfoque",
+      "lane": "decision",
+      "col": 2,
+      "type": "security",
+      "label": "Elegir el enfoque",
+      "sublabel": "situacional, social o comunitario",
+      "width": 160
+    },
+    {
+      "id": "accion",
+      "lane": "decision",
+      "col": 3,
+      "type": "external",
+      "label": "Definir la acción",
+      "sublabel": "actor y ámbito",
+      "width": 160
+    },
+    {
+      "id": "revision",
+      "lane": "decision",
+      "col": 4,
+      "type": "frontend",
+      "label": "Revisar el efecto",
+      "sublabel": "antes y después",
+      "width": 160
+    }
+  ],
+  "edges": [
+    {
+      "from": "definir",
+      "to": "mecanismo"
+    },
+    {
+      "from": "mecanismo",
+      "to": "enfoque"
+    },
+    {
+      "from": "enfoque",
+      "to": "accion"
+    },
+    {
+      "from": "accion",
+      "to": "revision"
+    }
+  ],
+  "cards": [
+    {
+      "dot": "cyan",
+      "title": "Ejemplo: acceso congestionado",
+      "items": [
+        "La hipótesis situacional examina circulación y visibilidad.",
+        "Si el problema sigue en la calle, se coordina con el municipio."
+      ]
+    },
+    {
+      "dot": "emerald",
+      "title": "Criterio de decisión",
+      "items": [
+        "La medida debe corresponder al mecanismo observado.",
+        "Más recursos son insumos, no efectos demostrados."
+      ]
+    }
+  ]
+}

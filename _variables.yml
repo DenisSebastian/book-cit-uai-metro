@@ -1,0 +1,10 @@
+version: "0.3"
+
+curso:
+  nombre: "Seguridad comunitaria y territorio"
+  destinatario: "Metro"
+  anio: 2026
+
+sesion:
+  numero: 6
+  nombre: "Anticipación y prevención"
