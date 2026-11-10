@@ -340,6 +340,20 @@ Figura&nbsp;3.5: Promedio del KDE por manzana en Las Condes, reescalado de 0 a 1
 </div>
 <p>La <strong>lógica del método es independiente del programa</strong>. En <a href="https://docs.qgis.org/3.44/en/docs/user_manual/plugins/plugins_interpolation.html">QGIS</a> se configura la capa de puntos, el radio y la resolución; en R, <a href="https://cran.r-project.org/web/packages/SpatialKDE/refman/SpatialKDE.html"><code>SpatialKDE</code></a> permite definir banda, kernel y cuadrícula; en Python, <a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.gaussian_kde.html"><code>scipy.stats.gaussian_kde</code></a> estima una densidad multidimensional que el analista debe llevar a una grilla y una cartografía adecuadas. También existen herramientas SIG como <a href="https://pro.arcgis.com/en/pro-app/3.6/tool-reference/spatial-analyst/how-kernel-density-works.htm">Kernel Density de ArcGIS Pro</a>. <strong>Las salidas numéricas de estas implementaciones no se comparan directamente</strong> sin revisar kernel, normalización, unidades y parámetros.</p>
 <p>Para un entorno de estación, primero hay que decidir si interesa la calle, los accesos o el interior. Una banda de 500 m, útil para ilustrar un sector comunal, mezclaría varios microespacios de una estación; la distancia en línea recta puede unir lugares separados por vías, muros o niveles. Si se necesita representar circulación, conviene evaluar distancia de recorrido o análisis sobre la red. En cualquier caso, el KDE indica <strong>dónde inspeccionar</strong> y con qué incertidumbre; no identifica la causa ni prescribe una intervención.</p>
+<div class="callout callout-style-default callout-note callout-titled" title="Pausa para conversar">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Pausa para conversar
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Pregunta al grupo:</strong> En la secuencia de tres imágenes KDE, ¿qué información conserva el mapa de puntos que se pierde al mirar solo la superficie suavizada?</p>
+<p><strong>Repregunta:</strong> Si el mismo foco cambia al ampliar la banda o al resumir por manzana, ¿qué comprobarían antes de señalar un acceso de Metro como prioritario?</p>
+</div>
+</div>
 </section>
 <section id="técnicas-complementarias-y-límites" class="level2" data-number="3.4">
 <h2 data-number="3.4" class="anchored" data-anchor-id="técnicas-complementarias-y-límites"><span class="header-section-number">3.4</span> Técnicas complementarias y límites</h2>
@@ -385,6 +399,19 @@ Tres errores que cambian la decisión
 <h2 data-number="3.7" class="anchored" data-anchor-id="del-foco-a-la-prevención-situacional"><span class="header-section-number">3.7</span> Del foco a la prevención situacional</h2>
 <p>Aquí el análisis vuelve a los <a href="./06a-enfoques-preventivos.html">enfoques de prevención</a>. Su aporte más directo a la <strong>prevención situacional</strong> es precisar <em>dónde, cuándo y para qué hecho</em> conviene observar una oportunidad o una condición inmediata. La ruta es <strong>foco persistente → inspección del microespacio → mecanismo plausible → medida acotada → seguimiento</strong>. El <a href="https://popcenter.asu.edu/content/step-23-diagnose-your-hot-spot">Center for Problem-Oriented Policing</a> recomienda diagnosticar qué sucede dentro de un foco antes de elegir la respuesta.</p>
 <p>Por ejemplo, <strong>si</strong> avisos comparables de hurto se concentraran en un acceso durante la hora punta, Metro podría revisar allí circulación, visibilidad, espera y posibilidad de pedir ayuda. Solo si la observación sostiene una hipótesis concreta tendría sentido probar un ajuste de orientación, supervisión o flujo y seguir el problema con una referencia comparable, considerando cambios en afluencia y reporte. El mapa no elige por sí solo cuál de esas medidas corresponde. Si el foco está en la calle exterior, la acción situacional necesitaría coordinación con el actor responsable de ese espacio; un patrón compartido con residentes y usuarios también puede abrir una ruta comunitaria. El <a href="./06d-modelamiento.html">modelamiento espacial</a> pregunta si, además del lugar, hay <strong>factores territoriales asociados</strong> que convenga examinar.</p>
+<div class="callout callout-style-default callout-tip callout-titled" title="Actividad opcional · si queda tiempo">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Actividad opcional · si queda tiempo
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Diálogo oral de 4 minutos, sin construir un mapa.</strong> Suponga que los registros comparables muestran un foco persistente de hurtos cerca de un acceso, sin precisar aún si los hechos ocurrieron dentro o fuera de la estación. Pregunte al grupo: ¿qué revisarían en los registros y en el flujo antes de visitar el lugar?, ¿qué observarían allí para formular una hipótesis situacional?, ¿qué hallazgo obligaría a coordinarse con el responsable de la calle? Cierre recordando que <strong>localizar el foco no demuestra su causa</strong>.</p>
+</div>
+</div>
 
 
 <div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
